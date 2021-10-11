@@ -1,3 +1,7 @@
+Esta app desarrollada con ReactJS indica quien cual turno sigue, si 'X' o 'O'
+Tambien te dice quein gana.
+ademas cuenta con un historial para deshacer pasos y rehacerlos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
