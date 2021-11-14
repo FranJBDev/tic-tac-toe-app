@@ -1,4 +1,4 @@
-Esta app desarrollada con ReactJS indica quien cual turno sigue, si 'X' o 'O'
+Esta app desarrollada con ReactJS indica cual turno sigue, si 'X' o 'O'
 Tambien te dice quein gana.
 ademas cuenta con un historial para deshacer pasos y rehacerlos.
 
